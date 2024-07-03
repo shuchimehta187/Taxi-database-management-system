@@ -1,3 +1,9 @@
+This project creates a whole backend database to show details of passengers, taxis and drivers to book a taxi . 
+This code includes concepts like fuctions, procedure,trigger, cursor,normalization etc.
+Below are some output screenshots to support the project.
+
+
+
 ![image](https://github.com/shuchimehta187/Taxi-database-management-system/assets/99829500/4ed133cb-7f65-4a4a-887f-f11d8da7cb47)
 ![image](https://github.com/shuchimehta187/Taxi-database-management-system/assets/99829500/ee87c62f-f453-419e-8e6f-0a44bdd6045f)
 ![image](https://github.com/shuchimehta187/Taxi-database-management-system/assets/99829500/44f6bfaf-feeb-4c71-af15-3b285c218d64)
